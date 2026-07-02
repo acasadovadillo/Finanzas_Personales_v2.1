@@ -38,6 +38,8 @@ Marca temporal,fecha,tipo,importe,cuenta_origen,cuenta_destino,tipo_ingreso,tipo
 2/07/2026 11:57:35,30/06/2026,Gasto,88.24,Bankinter,-,,Transporte > Transporte público y privado,,,Reserva de alquiler furgoneta para mudanza
 2/07/2026 11:59:21,1/07/2026,Gasto,250,Bankinter,-,,Transporte > Transporte público y privado,,,Fianza del alquiler de la furgoneta
 2/07/2026 12:01:28,2/07/2026,Ingreso,178.85,-,Bankinter,"Otros ingresos (especificar en ""Detalle"")",,,,Devolución de la fianza de Telefurgo (me devuelven menos porque me pasé de km)
+2/07/2026 12:08:39,1/07/2026,Gasto,69.16,Santander,-,,Transporte > Combustible,,,Repostaje de la furgoneta alquilada para la mudanza
+2/07/2026 12:09:29,1/07/2026,Gasto,18.90,Santander,-,,"Ocio > Bares, restaurantes y eventos",,,Cena Tom-Bru con Laura Colorado Pedrero (la invito por ayudarme con la mudanza)
 22/06/2026 20:35:41,26/02/2026,Ingreso,12311.71,-,Bankinter,Ingreso de ajuste,,,,Saldo en cuenta inicial
 22/06/2026 20:36:48,26/02/2026,Ingreso,21.95,-,Santander,Ingreso de ajuste,,,,Saldo en cuenta inicial
 22/06/2026 20:37:35,26/02/2026,Ingreso,85.7,-,Efectivo,Ingreso de ajuste,,,,Saldo en cuenta inicial
